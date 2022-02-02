@@ -30,5 +30,6 @@ body {
     padding: 0.25em 1em;
     border-radius: 1 em;
     box-shadow: 0 0 1em 0;
+    -webkit-appearance: none;
 }
 
