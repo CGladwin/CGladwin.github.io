@@ -26,6 +26,7 @@ body {
     font-size: inherit;
     border-color: white;
     font-family: inherit;
+    cursor: pointer;
     background-color: #e0ddd9;
     color : #1b1e1f;
     padding: 0.25em 1em;
